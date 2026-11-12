@@ -1,6 +1,6 @@
 Microcontroller AVR [ATmega328 - DIP28]: 1x
 IC Socket [DIP-28 Narrow]: 1x
-Logic IC NOT [7404 - DIP14]: 1x
+Logic IC NOT [74HC04 - DIP14]: 1x
 Logic IC Flip-Flop [7474 - DIP14]: 1x
 IC Socket [DIP-14]: 2x
 Crystal [8 MHz]: 4x
