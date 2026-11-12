@@ -3,8 +3,8 @@ Bill of Materials (BOM)
 
 Microcontroller AVR [ATmega328 - DIP28 Narrow]: 1x
 IC Socket [DIP-28 Narrow]: 1x
-Logic IC NOT [7404 - DIP14]: 1x
-Logic IC Flip-Flop [7474 - DIP14]: 1x
+Logic IC NOT [74HC04 - DIP14]: 1x
+Logic IC Flip-Flop [74HC74 - DIP14]: 1x
 IC Socket [DIP-14]: 2x
 Crystal [8 MHz]: 4x
 Resistor [470 Ohm]: 8x
@@ -13,11 +13,11 @@ Resistor [SMD 1206, 5.1 kOhm]: 2x
 Capacitor [Electrolytic 470uF]: 1x
 Capacitor [Ceramic 100nF]: 1x
 7-Segment Display [Common Anode 0.56"]: 1x
-Switch [Double]: 1x
+Push-Button Switch [DPDT Momentary 6-Pin]: 1x
 Pin Header [1x2]: 4x
 Pin Header [3x2]: 1x
 Jumper [Shunt/Cap]: 5x
 Spacer [5mm]: 4x
 Screw [M3 / 3mm]: 4x
 USB-C [SMD 6-Pin]: 1x
-PCB [Single-Sided]: 1x
+PCB [Double-Sided]: 1x
