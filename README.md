@@ -42,6 +42,5 @@ Full component lists in both Markdown (`.md`) and plain-text (`.txt`) formats ar
 ## Firmware & Licensing
 
 * **Official Firmware (v1.19):** [mixoftix/personal_trng_firmware](https://github.com/mixoftix/personal_trng_firmware)
-* **License:** This PCB is distributed under an Audit-Only license (see LICENSE for full terms). PCB Design inspection is permitted for security auditing; however, commercial or operational deployment requires a valid firmware license.
 
 * **License & Activation:** This PCB is distributed under an **Audit-Only** license (see `LICENSE` for full terms). PCB design inspection is permitted for security auditing; however, commercial or operational deployment requires a valid firmware license — view **[License Activation ($5 USD) & Proof of License instructions](https://github.com/mixoftix/personal_trng_firmware#license--activation-5-usd)**.
