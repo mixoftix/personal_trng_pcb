@@ -23,16 +23,23 @@
 
 ---
 
+## Hardware Prototype
+
+![Personal TRNG Lab Prototype](src/personal_trng_single_sided/docs/personal_trng_single_sided_1_0.png)<br>
+*Personal TRNG / Single-Sided PCB.*
+
+---
+
 ## Bill of Materials (BOM)
 
 Full component lists in both Markdown (`.md`) and plain-text (`.txt`) formats are located inside each edition's `docs/` folder under `src/`:
 
 * **Single-Sided BOM:** `src/personal_trng_single_sided/docs/personal_trng_single_sided_1_0_bom.md`
-* **Double-Sided BOM:** `src/personal_trng_double_sided/docs/`
+* **Double-Sided BOM:** `src/personal_trng_double_sided/docs/personal_trng_double_sided_1_0_bom.md`
 
 ---
 
 ## Firmware & Licensing
 
 * **Official Firmware (v1.19):** [mixoftix/personal_trng_firmware](https://github.com/mixoftix/personal_trng_firmware)
-* **License:** This firmware is distributed under an Audit-Only license (see LICENSE for full terms). Source code inspection is permitted for security auditing; however, commercial or operational deployment requires a valid firmware license.
+* **License:** This PCB is distributed under an Audit-Only license (see LICENSE for full terms). PCB Design inspection is permitted for security auditing; however, commercial or operational deployment requires a valid firmware license.
