@@ -9,7 +9,7 @@ Resistor [10 MOhm]: 4x
 Capacitor [Electrolytic 470uF]: 1x
 Capacitor [Ceramic 100nF]: 1x
 7-Segment Display [Common Anode 0.56"]: 1x
-Switch [Double]: 1x
+Push-Button Switch [DPDT Momentary 6-Pin]: 1x
 Pin Header [1x2]: 2x
 Pin Header [2x2]: 1x
 Pin Header [3x2]: 1x
