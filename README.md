@@ -16,7 +16,7 @@
 ## Key Hardware Architecture
 
 * **Microcontroller:** ATmega328 / ATmega328P (DIP-28 Narrow, internal `8 MHz` RC clock)
-* **Entropy Source ("Shutter System"):** 4x independent `8 MHz` crystals driven by a `74HC04` hex inverter with `10 MΩ` feedback resistors
+* **Shutter System ("Entropy Source"):** 4x independent `8 MHz` crystals driven by a `74HC04` hex inverter with `10 MΩ` feedback resistors
 * **Jitter Capture:** `74HC74` dual D flip-flop feeding hardware external interrupts (`INT0` / `INT1`)
 * **User Interface:** 0.56" Common-Anode 7-segment display, mode selection headers, and a 6-pin DPDT momentary push-button switch
 * **Serial Output:** UART TX/RX (`115200` baud)
